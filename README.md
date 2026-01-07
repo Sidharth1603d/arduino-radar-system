@@ -71,6 +71,8 @@ This project demonstrates core concepts of **embedded systems**, **sensor interf
 -Real-Time Data Processing
 -Hardware–Software Integration
 
+## ▶️ Demo Video
+[▶️ Watch Project Demo](https://youtu.be/z095wtEPAhI?si=kU7B9gqgPPoudxwp)
 
 
 
